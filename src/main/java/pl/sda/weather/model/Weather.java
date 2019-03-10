@@ -5,7 +5,6 @@ package pl.sda.weather.model;
  */
 public class Weather {
 
-
         private Location location;
         private Current current;
 
